@@ -49,7 +49,7 @@ The tool uses `isolated-vm` for secure code analysis. The legacy `vm2` is deprec
 Pull requests are welcome! Please open an issue first to discuss changes.
 
 ## 📜 License
-MIT © 2025
+MIT © 2026
 
 ## 🌍 Languages
 - English (primary)
